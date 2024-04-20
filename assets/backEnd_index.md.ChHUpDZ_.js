@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DEH44Bvu.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backEnd/index.md","filePath":"backEnd/index.md"}'),n={name:"backEnd/index.md"};function c(r,d,o,s,i,p){return a(),t("div")}const f=e(n,[["render",c]]);export{m as __pageData,f as default};
